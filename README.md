@@ -12,4 +12,4 @@ Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat desi
 
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
 
-This to update the Repo for practise purpose of commit, sync from vs code
+This to update the Repo for practise purpose of commit, sync from vs codee
